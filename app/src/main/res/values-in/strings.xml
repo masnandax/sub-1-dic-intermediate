@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stories</string>
+    <string name="camera_x">KameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="title_activity_sign_in">Masuk</string>
+    <string name="logout">Keluar</string>
+    <string name="language_settings">Bahasa</string>
+    <string name="email_hint">email kamu</string>
+    <string name="password_hint">kata kunci kamu</string>
+    <string name="name">nama</string>
+    <string name="hint_name">nama</string>
+    <string name="email">email</string>
+    <string name="password">kata sandi</string>
+    <string name="description">deskripsi</string>
+    <string name="sign_in">Daftar</string>
+    <string name="atau">atau</string>
+    <string name="login">Masuk</string>
+    <string name="nama_user">nama pengguna</string>
+    <string name="image_desc">ini adalah gambar</string>
+    <string name="loginLogin">Masuk</string>
+    <string name="date">12 Januari 2022</string>
+    <string name="caption_story">dnjendededemejkjmfjrfkrkfrjfrfrfrfjrmfmkrmfmrfmkrfmrfkrmkrfvmrvrrkmfrmfrfkfmrmfkrffrfrfrfrrrrrrrrrrfrfrfrfrfrrrrrrrrrfrfrf</string>
+    <string name="appwidget_text">Stories</string>
+    <string name="empty_text">No Data</string>
+</resources>

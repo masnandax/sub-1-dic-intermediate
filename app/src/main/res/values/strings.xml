@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyCamera</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Galery</string>
+    <string name="upload">Upload</string>
+    <string name="title_activity_sign_in">Sign In</string>
+    <string name="logout">Logout</string>
+    <string name="language_settings">Language</string>
+    <string name="email_hint">your email</string>
+    <string name="password_hint">your password</string>
+    <string name="name">name</string>
+    <string name="hint_name">name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="description">description</string>
+    <string name="sign_in">Sign In</string>
+    <string name="atau">or</string>
+    <string name="login">Login</string>
+    <string name="nama_user">name user</string>
+    <string name="image_desc">this is image</string>
+    <string name="loginLogin">Login</string>
+    <string name="date">12 January 2022</string>
+    <string name="caption_story">dnjendededemejkjmfjrfkrkfrjfrfrfrfjrmfmkrmfmrfmkrfmrfkrmkrfvmrvrrkmfrmfrfkfmrmfkrffrfrfrfrrrrrrrrrrfrfrfrfrfrrrrrrrrrfrfrf</string>
+    <string name="appwidget_text">Stories</string>
+    <string name="empty_text">No Data</string>
+</resources>
